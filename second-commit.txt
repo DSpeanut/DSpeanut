@@ -1,2 +1,0 @@
-This is our second commit!
-This was also added in detached head mode!
